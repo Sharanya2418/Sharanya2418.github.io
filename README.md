@@ -10,8 +10,9 @@
 🔗 **Portfolio Website:**  
 👉 https://sharanya2418.github.io/
 
-## 🛠️ Behind the Scenes
+## 🛠️ Built with 
 Built using simple and clean web technologies:
+
 💻 HTML  
 🎨 CSS  
 ⚡ JavaScript  
@@ -25,7 +26,7 @@ Built using simple and clean web technologies:
 ## 💬 Let's Connect
 📧 Email: sharanyasurs@gmail.com  
 💻 GitHub: https://github.com/Sharanya2418  
-🔗 LinkedIn: 
+🔗 LinkedIn: http://www.linkedin.com/in/sharanyasurs
 
 ### 🌸 Made with curiosity, creativity and a love for learning ✨
 
